@@ -1,0 +1,3 @@
+class main{
+"Hello world"
+}
